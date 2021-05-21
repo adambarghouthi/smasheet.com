@@ -8,11 +8,21 @@
     "start": "next start"
   },
   "dependencies": {
+    "@googleapis/drive": "^0.3.1",
+    "@googleapis/sheets": "^0.3.0",
+    "@headlessui/react": "^1.1.1",
+    "@heroicons/react": "^1.0.1",
+    "@tailwindcss/forms": "^0.3.2",
+    "axios": "^0.21.1",
+    "mongodb": "^3.6.6",
     "next": "latest",
+    "next-auth": "^3.20.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-flow-renderer": "^9.5.4"
   },
   "devDependencies": {
+    "@tailwindcss/jit": "^0.1.18",
     "autoprefixer": "^10.0.4",
     "postcss": "^8.1.10",
     "tailwindcss": "^2.1.1"
